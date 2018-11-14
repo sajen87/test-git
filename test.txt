@@ -1,8 +1,1 @@
-
-pierwsze zmiany
-5.Zmiana
-6.Zmiana w master
-1.zmiana developerska
-2.zmiana
-3.Tu ma byc merge do mastera
-4.Inna zmiana
+1. Master
